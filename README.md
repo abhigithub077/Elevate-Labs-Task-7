@@ -15,6 +15,8 @@ Create a visualization with Matplotlib
 
 Document everything clearly and push to GitHub
 
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-7/blob/e74edc04c94c7b37c1dadf222fddb5f57a609601/eltask7.png)
+
 ## 🛠 Tools & Libraries
 Python (core language)
 SQLite3 (database)
